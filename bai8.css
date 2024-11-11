@@ -1,0 +1,57 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    background-image: url(Media/anh82.jpg);
+    width: 100%;
+    height: 700px;
+    margin-top: 10px;
+    margin-left: 4px;
+background-size: cover;
+}
+.box2{
+    background-color:white;
+    width: 80%;
+    height: 70px;
+    margin-left: 10%;
+    display: flex;
+    padding: 8px 0;
+    top: 0;
+    position: absolute;
+    border-radius: 0 0 20px 20px;
+   font-weight: 700;
+}
+.box2 div{
+flex: 1;
+padding: 10px;
+text-align: center;
+color: red;
+}
+.box3{
+    background-color:white;
+    margin-top: 1%;
+ 
+}
+.a1{
+    font-size: 3;
+    text-align: center;
+    margin: 0;
+    color: red;
+}
+.a2{
+    text-align: center;
+    font-size: 1.5em;
+}
+.box4{
+    width: 80%;
+    margin-left: 10%;
+    height: 700px;
+ 
+}
+.box5{
+    width: 100%;
+    height: 300px;
+    background-color: yellow;
+    margin-top: 1%;
+}
